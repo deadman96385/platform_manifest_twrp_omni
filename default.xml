@@ -16,7 +16,7 @@
            fetch="https://github.com/omnirom" />
   
     <remote  name="omnirom-security"
-           fetch="https://github.com/omnirom-security" />
+           fetch="https://github.com/omni-security" />
            
   <remote  name="TeamWin"
            review="gerrit.twrp.me"
